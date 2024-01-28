@@ -1,0 +1,154 @@
+1~2~Graphics & Design~Logo & Brand Identity~I will design a modern logo for your brand~250~2 days
+2~4~Programming & Tech~Application Development~I will create a responsive web application for you~800~2 weeks
+3~6~Digital Marketing~Social~I will manage your social media accounts and boost engagement~300~5 days
+4~8~Video & Animation~Animation~I will animate characters and bring your ideas to life~450~1 week
+5~10~Writing & Translation~Editing & Critique~I will edit and refine your content professionally~150~3 days
+6~12~Music & Audio~Music Production & Writing~I will compose a unique music track for your project~600~2 weeks
+7~14~Business~Business Formation & Growth~I will guide you in growing and scaling your business~350~1 week
+8~16~Data~Data Science & ML~I will build machine learning models for predictive analysis~700~3 weeks
+9~18~Photography~Miscellaneous~I will capture moments with creativity and precision~200~3 days
+10~20~AI Services~Generative AI~I will create generative art pieces inspired by your ideas~550~2 weeks
+11~22~Graphics & Design~Art & Illustration~I will illustrate captivating scenes for your project~300~1 week
+12~24~Programming & Tech~Software Development~I will develop a robust software solution for you~200~4 weeks
+13~26~Digital Marketing~Search~I will optimize your website for better search engine rankings~500~3 weeks
+14~28~Video & Animation~Social & Marketing Videos~I will create compelling marketing videos for you~700~2 weeks
+15~30~Writing & Translation~Translation & Transcription~I will provide accurate transcription services~250~5 days
+16~2~Music & Audio~Audio Engineering & Post Production~I will enhance your audio for a professional sound~400~1 week
+17~4~Business~Legal Services~I will draft and review legal documents for your business~450~2 weeks
+18~6~Data~Data Analysis~I will analyze your data and provide actionable insights~800~3 weeks
+19~8~Photography~Packaging & Covers~I will design captivating covers for your products~300~4 days
+20~10~AI Services~Generative AI~I will create AI-generated content for your projects~600~2 weeks
+21~12~Graphics & Design~Print Design~I will design eye-catching print materials for your business~350~1 week
+22~14~Programming & Tech~Mobile Apps~I will develop a user-friendly Android app for your business~100~3 weeks
+23~16~Digital Marketing~Social~I will create engaging social media content for your brand~450~2 weeks
+24~18~Video & Animation~Product & Explainer Videos~I will produce high-quality explainer videos for you~550~1 week
+25~20~Writing & Translation~Career Writing~I will craft a professional resume tailored to your career~300~4 days
+26~22~Music & Audio~Lessons & Transcription~I will provide music lessons and sheet transcription~450~2 weeks
+27~24~Business~Sales & Customer Care~I will optimize your sales strategy for better results~550~1 week
+28~26~Data~Product~I will analyze and manage product data for optimal performance~600~3 weeks
+29~28~Photography~3D Design~I will create stunning 3D designs and renderings for you~600~3 weeks
+30~30~AI Services~Content~I will generate unique and engaging content using AI~500~2 weeks
+31~2~Graphics & Design~Miscellaneous~I will offer custom design services for your unique needs~300~1 week
+32~4~Programming & Tech~Miscellaneous~I will provide expert tech consultation for your projects~200~4 weeks
+33~6~Digital Marketing~Miscellaneous~I will create a comprehensive digital marketing strategy~500~3 weeks
+34~8~Video & Animation~Miscellaneous~I will design a custom animated logo to represent your brand~700~2 weeks
+35~10~Writing & Translation~Miscellaneous~I will offer specialized technical writing services~550~1 week
+36~12~Music & Audio~Miscellaneous~I will compose a background music track to elevate your project~400~1 week
+37~14~Business~Miscellaneous~I will provide valuable business consultation services~450~2 weeks
+38~16~Data~Miscellaneous~I will create custom data solutions to meet your business needs~800~3 weeks
+39~18~Photography~Miscellaneous~I will offer custom photo editing services to enhance your images~300~4 days
+40~20~AI Services~Miscellaneous~I will provide AI consultation services for your unique requirements~600~2 weeks
+41~22~Graphics & Design~Fashion & Merchandise~I will design trendy merchandise for your brand~350~1 week
+42~24~Programming & Tech~Websites~I will develop a visually appealing WordPress website for you~200~4 weeks
+43~26~Digital Marketing~Social~I will create an effective Instagram marketing strategy for your brand~350~2 weeks
+44~28~Video & Animation~Animation~I will create lively character animations for your project~550~1 week
+45~30~Writing & Translation~Editing & Critique~I will provide expert editing and critique for your content~300~4 days
+46~2~Music & Audio~Music Production & Writing~I will compose a catchy jingle for your brand~450~2 weeks
+47~4~Business~Business Formation & Growth~I will guide you in growing and scaling your business~700~1 week
+48~6~Data~Data Science & ML~I will build machine learning models for predictive analysis~800~3 weeks
+49~8~Photography~Product & Gaming~I will capture stunning product photography for your business~200~3 days
+50~10~AI Services~Content~I will provide AI-based content creation services~500~2 weeks
+51~12~Graphics & Design~Miscellaneous~I will create custom digital artwork for your needs~90~4 days
+52~14~Programming & Tech~Mobile Apps~I will develop a mobile app for your business~720~4 weeks
+53~16~Digital Marketing~Search~I will conduct keyword research and optimize your website~420~3 weeks
+54~18~Video & Animation~Tutorials & Education~I will create educational tutorials and animations~580~2 weeks
+55~20~Writing & Translation~Editing & Critique~I will proofread and edit your documents~330~1 week
+56~22~Music & Audio~Lessons & Transcription~I will provide music lessons and transcribe music~430~2 weeks
+57~24~Business~Sales & Customer Care~I will develop a customer care strategy for your business~530~1 week
+58~26~Data~Product~I will analyze and manage product data for your business~680~3 weeks
+59~28~Photography~3D Design~I will create realistic 3D models and renderings~690~3 weeks
+60~30~AI Services~Content~I will generate AI-based content for your projects~500~2 weeks
+61~2~Graphics & Design~Miscellaneous~I will design custom illustrations for your projects~350~1 week
+62~4~Programming & Tech~Support & Cybersecurity~I will provide cybersecurity services for your business~420~2 weeks
+63~6~Digital Marketing~Analytics & Strategy~I will analyze and develop a digital marketing strategy~870~3 weeks
+64~8~Video & Animation~Miscellaneous~I will create a unique and animated logo for your brand~390~5 days
+65~10~Writing & Translation~Miscellaneous~I will provide creative writing services for you~650~1 week
+66~12~Music & Audio~DJing~I will DJ for your event or party~240~4 days
+67~14~Business~Miscellaneous~I will offer virtual assistant services for your business~550~2 weeks
+68~16~Data~People~I will provide people analytics solutions for your business~490~1 week
+69~18~Photography~Websites~I will provide website photo editing services~760~3 weeks
+70~20~AI Services~Generative AI~I will provide generative art consultation services~580~2 weeks
+71~22~Graphics & Design~Packaging & Covers~I will design custom packaging for your products~350~5 days
+72~24~Programming & Tech~Website Platforms~I will develop a WordPress website for your business~120~4 weeks
+73~26~Digital Marketing~Search~I will conduct an SEO audit and optimization for your website~540~3 weeks
+74~28~Video & Animation~Tutorials & Education~I will create educational animations for your content~790~2 weeks
+75~30~Writing & Translation~Editing & Critique~I will edit and critique your manuscript~420~1 week
+76~2~Music & Audio~Lessons & Transcription~I will offer music lessons and transcription services~590~2 weeks
+77~4~Business~Sales & Customer Care~I will develop a sales strategy for your business~550~1 week
+78~6~Data~Product~I will analyze and manage product data for your business~610~3 weeks
+79~8~Photography~3D Design~I will create realistic 3D models and renderings for you~690~3 weeks
+80~10~AI Services~Content~I will provide AI-based content creation services~450~2 weeks
+81~12~Graphics & Design~Visual Design~I will design visual content for your brand~490~1 week
+82~14~Programming & Tech~Support & Cybersecurity~I will provide IT support services for your business~350~2 weeks
+83~16~Digital Marketing~Analytics & Strategy~I will provide digital marketing analytics services~780~3 weeks
+84~18~Video & Animation~Miscellaneous~I will create a custom animated logo for your brand~390~5 days
+85~20~Writing & Translation~Miscellaneous~I will offer technical writing services for you~550~1 week
+86~22~Music & Audio~DJing~I will provide professional DJ mixing services~260~4 days
+87~24~Business~Miscellaneous~I will offer virtual assistant services for your business~600~2 weeks
+88~26~Data~People~I will provide people analytics solutions for your business~460~1 week
+89~28~Photography~Websites~I will provide website photo editing services~780~3 weeks
+90~30~AI Services~Generative AI~I will provide generative art consultation services~510~2 weeks
+91~2~Graphics & Design~Packaging & Covers~I will design custom packaging for your products~280~5 days
+92~4~Programming & Tech~Website Platforms~I will develop a WordPress website for your business~125~4 weeks
+93~6~Digital Marketing~Search~I will conduct an SEO audit and optimization for your website~580~3 weeks
+94~8~Video & Animation~Tutorials & Education~I will create educational animations for your content~730~2 weeks
+95~10~Writing & Translation~Editing & Critique~I will edit and critique your manuscript~450~1 week
+96~12~Music & Audio~Lessons & Transcription~I will offer music lessons and transcription services~600~2 weeks
+97~14~Business~Sales & Customer Care~I will develop a sales strategy for your business~550~1 week
+98~16~Data~Product~I will analyze and manage product data for your business~610~3 weeks
+99~18~Photography~3D Design~I will create realistic 3D models and renderings for you~750~3 weeks
+100~20~AI Services~Content~I will provide AI-based content creation services~400~2 weeks
+101~22~Graphics & Design~Visual Design~I will design visual content for your brand~490~1 week
+102~24~Programming & Tech~Support & Cybersecurity~I will provide IT support services for your business~350~2 weeks
+103~26~Digital Marketing~Analytics & Strategy~I will provide digital marketing analytics services~780~3 weeks
+104~28~Video & Animation~Miscellaneous~I will create a custom animated logo for your brand~390~5 days
+105~30~Writing & Translation~Miscellaneous~I will offer technical writing services for you~550~1 week
+106~2~Music & Audio~DJing~I will provide professional DJ mixing services~260~4 days
+107~4~Business~Miscellaneous~I will offer virtual assistant services for your business~600~2 weeks
+108~6~Data~People~I will provide people analytics solutions for your business~460~1 week
+109~8~Photography~Websites~I will provide website photo editing services~780~3 weeks
+110~10~AI Services~Generative AI~I will provide generative art consultation services~510~2 weeks
+111~12~Graphics & Design~Packaging & Covers~I will design custom packaging for your products~280~5 days
+112~14~Programming & Tech~Website Platforms~I will develop a WordPress website for your business~125~4 weeks
+113~16~Digital Marketing~Search~I will conduct an SEO audit and optimization for your website~580~3 weeks
+114~18~Video & Animation~Tutorials & Education~I will create educational animations for your content~730~2 weeks
+115~20~Writing & Translation~Editing & Critique~I will edit and critique your manuscript~450~1 week
+116~22~Music & Audio~Lessons & Transcription~I will offer music lessons and transcription services~600~2 weeks
+117~24~Business~Sales & Customer Care~I will develop a sales strategy for your business~550~1 week
+118~26~Data~Product~I will analyze and manage product data for your business~610~3 weeks
+119~28~Photography~3D Design~I will create realistic 3D models and renderings for you~750~3 weeks
+120~30~AI Services~Content~I will provide AI-based content creation services~400~2 weeks
+121~2~Graphics & Design~Visual Design~I will design visual content for your brand~490~1 week
+122~4~Programming & Tech~Support & Cybersecurity~I will provide IT support services for your business~350~2 weeks
+123~6~Digital Marketing~Analytics & Strategy~I will provide digital marketing analytics services~780~3 weeks
+124~8~Video & Animation~Miscellaneous~I will create a custom animated logo for your brand~390~5 days
+125~10~Writing & Translation~Miscellaneous~I will offer technical writing services for you~550~1 week
+126~12~Music & Audio~DJing~I will provide professional DJ mixing services~260~4 days
+127~14~Business~Miscellaneous~I will offer virtual assistant services for your business~600~2 weeks
+128~16~Data~People~I will provide people analytics solutions for your business~460~1 week
+129~18~Photography~Websites~I will provide website photo editing services~780~3 weeks
+130~20~AI Services~Generative AI~I will provide generative art consultation services~510~2 weeks
+131~22~Graphics & Design~Packaging & Covers~I will design custom packaging for your products~280~5 days
+132~24~Programming & Tech~Website Platforms~I will develop a WordPress website for your business~125~4 weeks
+133~26~Digital Marketing~Search~I will conduct an SEO audit and optimization for your website~580~3 weeks
+134~28~Video & Animation~Tutorials & Education~I will create educational animations for your content~730~2 weeks
+135~30~Writing & Translation~Editing & Critique~I will edit and critique your manuscript~450~1 week
+136~2~Music & Audio~Lessons & Transcription~I will offer music lessons and transcription services~600~2 weeks
+136~2~Music & Audio~Lessons & Transcription~I will offer music lessons and transcription services~600~2 weeks
+137~4~Business~Sales & Customer Care~I will optimize your sales strategy for better results~550~1 week
+138~6~Data~Product~I will analyze and manage product data for optimal performance~600~3 weeks
+139~8~Photography~3D Design~I will create stunning 3D designs and renderings for you~600~3 weeks
+140~10~AI Services~Content~I will generate unique and engaging content using AI~500~2 weeks
+141~12~Graphics & Design~Miscellaneous~I will offer custom design services for your unique needs~300~1 week
+142~14~Programming & Tech~Miscellaneous~I will provide expert tech consultation for your projects~200~4 weeks
+143~16~Digital Marketing~Miscellaneous~I will create a comprehensive digital marketing strategy~500~3 weeks
+144~18~Video & Animation~Miscellaneous~I will design a custom animated logo to represent your brand~700~2 weeks
+145~20~Writing & Translation~Miscellaneous~I will offer specialized technical writing services~550~1 week
+146~22~Music & Audio~Miscellaneous~I will compose a background music track to elevate your project~400~1 week
+147~24~Business~Miscellaneous~I will provide valuable business consultation services~450~2 weeks
+148~26~Data~Miscellaneous~I will create custom data solutions to meet your business needs~800~3 weeks
+149~28~Photography~Miscellaneous~I will offer custom photo editing services to enhance your images~300~4 days
+150~30~AI Services~Miscellaneous~I will provide AI consultation services for your unique requirements~600~2 weeks
+153~154~Programming & Tech~Mobile Apps~I will create mobile app in Xamarin~500~Around a week
+154~154~Programming & Tech~Application Development~I will create youtube clone~999~Around half year
+155~154~Programming & Tech~Software Development~I will create skillflare~980~Around half year
